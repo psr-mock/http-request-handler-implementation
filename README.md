@@ -1,4 +1,4 @@
-**Lightweight mocking library for [PSR-15 HTTP Server Request Handler](https://www.php-fig.org/psr/psr-15/) implementations, tailor-made to help you build cleaner test suites that are easier to write, read, and maintain.**
+**Lightweight mocking library for [PSR-15 HTTP Server Request Handler](https://www.php-fig.org/psr/psr-15/) implementations, tailor-made to help you create test suites that are easier to write and maintain.**
 
 [![codecov](https://img.shields.io/codecov/c/github/psr-mock/http-request-handler-implementation)](https://codecov.io/gh/psr-mock/http-request-handler-implementation) [![packagist](https://img.shields.io/packagist/dt/psr-mock/http-request-handler-implementation)](https://packagist.org/packages/psr-mock/http-request-handler-implementation) ![status](https://img.shields.io/github/checks-status/psr-mock/http-request-handler-implementation/1.x) ![license](https://img.shields.io/github/license/psr-mock/http-request-handler-implementation)
 
