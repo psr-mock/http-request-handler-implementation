@@ -4,7 +4,7 @@
 
 This library is primarily intended for use in libraries like SDKs that consume PSR implementations without requiring hard dependencies on specific libraries. The library mocks a real-world implementation and strictly adheres to PSR specifications, enabling you to create cleaner test suites that are easier to write, read, and maintain. The library also exposes a robust developer API to help you debug and fix failures in your application's tests substantially faster.
 
-This package is part of the [PSR Mock](https://github.com/psr-mock) suite of mocking libraries, which provide developer implementations of most PSR interfaces.
+This package is part of the [PSR Mock](https://github.com/psr-mock) suite of mocking libraries.
 
 ## Requirements
 
