@@ -2,7 +2,7 @@
 
 [![codecov](https://img.shields.io/codecov/c/github/psr-mock/http-request-handler-implementation)](https://codecov.io/gh/psr-mock/http-request-handler-implementation) [![packagist](https://img.shields.io/packagist/dt/psr-mock/http-request-handler-implementation)](https://packagist.org/packages/psr-mock/http-request-handler-implementation) ![status](https://img.shields.io/github/checks-status/psr-mock/http-request-handler-implementation/1.x) ![license](https://img.shields.io/github/license/psr-mock/http-request-handler-implementation)
 
-This library is for developers implementing PSR-15 interfaces in their applications. The library mocks a "real" implementation and enables you to write cleaner test suites that are easier to write, read, and maintain. It has no hard dependencies, does not require any configuration, and provides a robust developer API for troubleshooting issues in your application.
+This is largely intended for use in libraries like SDKs that consume PSR implementations without requiring hard dependencies on specific libraries. The library mocks a real-world implementation and strictly adheres PSR specifications, enabling you to create cleaner test suites that are easier to write, read, and maintain. The library also exposes a robust developer API that can help you debug and fix failures in your application's tests substantially faster.
 
 This package is part of the [PSR Mock](https://github.com/psr-mock) utility suite, which provide mock implimentations of nearly every PSR interface available.
 
